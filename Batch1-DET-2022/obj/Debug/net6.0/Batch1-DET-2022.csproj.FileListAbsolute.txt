@@ -1,0 +1,15 @@
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.csproj.AssemblyReference.cache
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.AssemblyInfoInputs.cache
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.AssemblyInfo.cs
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.csproj.CoreCompileInputs.cache
+C:\Users\ETG1\source\repos\Batch1-DET-2022\bin\Debug\net6.0\Batch1-DET-2022.exe
+C:\Users\ETG1\source\repos\Batch1-DET-2022\bin\Debug\net6.0\Batch1-DET-2022.deps.json
+C:\Users\ETG1\source\repos\Batch1-DET-2022\bin\Debug\net6.0\Batch1-DET-2022.runtimeconfig.json
+C:\Users\ETG1\source\repos\Batch1-DET-2022\bin\Debug\net6.0\Batch1-DET-2022.dll
+C:\Users\ETG1\source\repos\Batch1-DET-2022\bin\Debug\net6.0\Batch1-DET-2022.pdb
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.dll
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\refint\Batch1-DET-2022.dll
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.pdb
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\Batch1-DET-2022.genruntimeconfig.cache
+C:\Users\ETG1\source\repos\Batch1-DET-2022\obj\Debug\net6.0\ref\Batch1-DET-2022.dll
