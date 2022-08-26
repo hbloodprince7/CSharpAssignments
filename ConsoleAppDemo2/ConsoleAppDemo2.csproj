@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleAppDemo2.A7</StartupObject>
+    <StartupObject>ConsoleAppDemo2.MinMax</StartupObject>
   </PropertyGroup>
 
 </Project>
